@@ -1,0 +1,2 @@
+# cripto
+trabalho da escola
